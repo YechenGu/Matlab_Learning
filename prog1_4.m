@@ -6,4 +6,4 @@ fprintf('optimazed matrix is:');
 x
 fprintf('maximum load is:');
 y=-y
-%şĂĎń×ö´íÁËŁżŇÔşóĐŢ¸Ä
+%maybe with bugs
